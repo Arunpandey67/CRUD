@@ -475,11 +475,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hp\\source\\repos\\MyProject\\MyProject\\MyProject.csproj",
+      "projectUniqueName": "C:\\Users\\hp\\Source\\Repos\\CRUD\\MyProject\\MyProject.csproj",
       "projectName": "MyProject",
-      "projectPath": "C:\\Users\\hp\\source\\repos\\MyProject\\MyProject\\MyProject.csproj",
+      "projectPath": "C:\\Users\\hp\\Source\\Repos\\CRUD\\MyProject\\MyProject.csproj",
       "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hp\\source\\repos\\MyProject\\MyProject\\obj\\",
+      "outputPath": "C:\\Users\\hp\\Source\\Repos\\CRUD\\MyProject\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
